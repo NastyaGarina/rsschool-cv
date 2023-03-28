@@ -57,7 +57,7 @@ Page layout, connects to the database, writing functionality
 
 ### Courses and education
 
-- International Engineering and Technology University
+- International Engineering and Technology University 2020-2024
 - Udemy Understanding TypeScript - 2022 Edition
 - Udemy React
 - Stepik css/html
