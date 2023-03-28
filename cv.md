@@ -53,7 +53,7 @@ Page layout, connects to the database, writing functionality
 - Clothing store, MERN stack used Express.js, mongodb for backing and React, js, Redux and libraries. Functional admin panel, authorization, shopping cart, payment for goods, clothes filtering.
 - Todo list drag and drop TypeScript
 
-- github: https://github.com/NastyaGarina
+- github: <https://github.com/NastyaGarina/>
 
 ### Courses and education
 
